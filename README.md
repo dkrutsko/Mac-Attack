@@ -1,6 +1,6 @@
 # Mac Attack
 
-This application implements the onion routing protocol over a wireless Ad-Hoc network using a peer-to-peer architecture.  Each instance of this application is a node in the network that is able to discover other nodes and be discovered through a neighbor discovery protocol.  Each node must have an identity that is compatible with other nodes in the network, that is, an identity must be signed by a common node called the certification node. Identities can be created and signed using this application.
+<p align="justify">This application implements the onion routing protocol over a wireless Ad-Hoc network using a peer-to-peer architecture.  Each instance of this application is a node in the network that is able to discover other nodes and be discovered through a neighbor discovery protocol.  Each node must have an identity that is compatible with other nodes in the network, that is, an identity must be signed by a common node called the certification node. Identities can be created and signed using this application.</p>
 
 ### Running
 ```bash
